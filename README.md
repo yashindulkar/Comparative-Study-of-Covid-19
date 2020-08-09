@@ -20,8 +20,8 @@
 
 ❗️  Table for the change in various sectors
 
-![]()
+![](https://github.com/yashindulkar/Comparative-Study-of-Covid-19/blob/master/Images/Table.PNG)
 
 ❗️  Pie Diagram 
 
-![]()
+![](https://github.com/yashindulkar/Comparative-Study-of-Covid-19/blob/master/Images/Pie%20Diagram.PNG)
